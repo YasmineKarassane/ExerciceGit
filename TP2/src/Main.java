@@ -3,6 +3,7 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Le recoit-tu?");
         System.out.println("Bien sûr");
+        System.out.println("Bonjour le monde");
         System.out.println("Essaie conflit");
     }
 }
